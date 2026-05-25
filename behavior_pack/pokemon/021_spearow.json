@@ -1,0 +1,26 @@
+{
+  "id": 21,
+  "name": "Spearow",
+  "type": ["Normal", "Flying"],
+  "stats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "sp_atk": 31,
+    "sp_def": 31,
+    "speed": 70
+  },
+  "abilities": {
+    "normal": "Keen Eye",
+    "hidden": "Sniper"
+  },
+  "moves": ["Peck", "Growl", "Leer", "Fury Attack", "Mirror Move"],
+  "pokedex_entry": "Eats bugs in grassy areas. It has to flap its short wings millions of times to stay airborne.",
+  "evolution": {"next": "Fearow", "trigger": "Level 20"},
+  "height": "0.3m",
+  "weight": "2.0kg",
+  "gender_ratio": {"male": 50.0, "female": 50.0},
+  "egg_groups": ["Flying"],
+  "hatch_time": 21,
+  "base_exp": 39
+}
