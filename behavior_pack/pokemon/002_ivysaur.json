@@ -1,0 +1,26 @@
+{
+  "id": 2,
+  "name": "Ivysaur",
+  "type": ["Grass", "Poison"],
+  "stats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "sp_atk": 80,
+    "sp_def": 80,
+    "speed": 60
+  },
+  "abilities": {
+    "normal": "Overgrow",
+    "hidden": "Chlorophyll"
+  },
+  "moves": ["Tackle", "Growl", "Leech Seed", "Vine Whip", "Powder Powder", "Sleep Powder", "Poison Powder", "Razor Leaf", "Synthesis"],
+  "pokedex_entry": "When the bulb on its back catches the sun's rays, it appears to bloom into a flower.",
+  "evolution": {"next": "Venusaur", "trigger": "Level 32"},
+  "height": "1.0m",
+  "weight": "13.0kg",
+  "gender_ratio": {"male": 87.5, "female": 12.5},
+  "egg_groups": ["Monster", "Plant"],
+  "hatch_time": 21,
+  "base_exp": 142
+}
