@@ -1,0 +1,26 @@
+{
+  "id": 22,
+  "name": "Fearow",
+  "type": ["Normal", "Flying"],
+  "stats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "sp_atk": 61,
+    "sp_def": 61,
+    "speed": 100
+  },
+  "abilities": {
+    "normal": "Keen Eye",
+    "hidden": "Sniper"
+  },
+  "moves": ["Fly", "Peck", "Growl", "Leer", "Fury Attack", "Mirror Move", "Drill Peck"],
+  "pokedex_entry": "With its huge, magnificent wings, it can keep aloft without ever having to land on the ground.",
+  "evolution": null,
+  "height": "1.2m",
+  "weight": "38.0kg",
+  "gender_ratio": {"male": 50.0, "female": 50.0},
+  "egg_groups": ["Flying"],
+  "hatch_time": 21,
+  "base_exp": 145
+}
