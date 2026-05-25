@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "name": "Bulbasaur",
+  "type": ["Grass", "Poison"],
+  "stats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "sp_atk": 65,
+    "sp_def": 65,
+    "speed": 45
+  },
+  "abilities": {
+    "normal": "Overgrow",
+    "hidden": "Chlorophyll"
+  },
+  "moves": [
+    "Tackle",
+    "Growl",
+    "Leech Seed",
+    "Vine Whip",
+    "Powder Powder",
+    "Sleep Powder",
+    "Poison Powder",
+    "Razor Leaf"
+  ],
+  "pokedex_entry": "A small quadruped Pokémon that can photosynthesize. It has a bulb on its back that grows as it absorbs nutrients.",
+  "evolution": {
+    "next": "Ivysaur",
+    "trigger": "Level 16"
+  },
+  "height": "0.7m",
+  "weight": "6.9kg",
+  "gender_ratio": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "egg_groups": ["Monster", "Plant"],
+  "hatch_time": 21,
+  "base_exp": 64
+}
